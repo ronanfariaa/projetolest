@@ -1,4 +1,4 @@
- ## Project Wooza - v1.0.013
+ ## Project Lest - v1.0.013
 
 Projeto de cadastro e listagem de Devs, consumindo dados do GitHub e verificando latitude e longitude para uma futura geolocalização.
 
@@ -6,7 +6,7 @@ Projeto de cadastro e listagem de Devs, consumindo dados do GitHub e verificando
 #### - Inicializando o Projeto:
 
 
-1 - Na raiz do "projetowooza", executar o comando:
+1 - Na raiz do "projetolest", executar o comando:
 
 
 ####  yarn install
@@ -18,7 +18,7 @@ Projeto de cadastro e listagem de Devs, consumindo dados do GitHub e verificando
 ####  yarn start
 
 
-##### - Após a inicialização do serviço, clonar o diretório "woozaproject" e executar os comando abaixo:
+##### - Após a inicialização do serviço, clonar o diretório "lestproject" e executar os comando abaixo:
 
 
 3 - Entrar no diretório backend e executar o comando:
