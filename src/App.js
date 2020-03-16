@@ -42,7 +42,7 @@ setDevs([...devs, response.data]);
   
     <div id="app">
       <aside>
-        <strong> Cadastrar Devs Wooza </strong>
+        <strong> Cadastrar Devs </strong>
         <FormDevs onSubmit={handleAddDev} />
        </aside>
 
